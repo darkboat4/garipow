@@ -45,7 +45,7 @@ start.style.backgroundImage = "";
 restart.style.backgroundImage = "url(botao-do-ryan-verdadeiro/NewPiskelRestart-2.png.png);";
 
 var score = document.getElementById("score");
-var pontos = 99;
+var pontos = 0;
 var life = document.getElementById("life");
 var vida = 3;
 life.textContent = vida;
